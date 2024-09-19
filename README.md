@@ -23,5 +23,8 @@ The arduino micro powered device is
 - 1x led
 - 1x capacitor 1uF 63v
 - 1x arcade button switch
+- 1x prototype soldering board
+- some cables
+- solder
 
 ![2024-02-04 Vaus Gaming paddle shematic v0 01_bb](https://github.com/user-attachments/assets/390cd52d-bf6a-49aa-a363-2858c70ceaec)
