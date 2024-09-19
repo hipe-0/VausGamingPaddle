@@ -2,9 +2,9 @@
 Arkanoid inspired game paddle for playing Arkanoid 1 or 2 retro games or any other breakout-inspired ball game of the 90's.
 The paddle only works if it is played at the bottom of the screen.
 The arduino micro powered device is 
-- emulating a mouse with only X direction and features 1 button
+- emulating a mouse with only X direction and featurint only 1 button (= 1 is enough for Arkanoid game)
 - the main sensor bar is a very smooth large linear potentiometer, like the ones found on DJ mixer devices
-- paddle movements are accompanied by led effect when moving and firing
+- paddle movements are accompanied by led effect when moving and firing (see video attached 20240919_225736.mp4)
 - handles the left and right corners by moving the mouse faster
 - features a mouse acceleration (not fully linear)
 - sentitivity is can be changed (per game) by user using a potentiometer. Useful as screen resolution may differ from one game to the other.
@@ -30,3 +30,4 @@ The arduino micro powered device is
 - hot glue
 
 ![2024-02-04 Vaus Gaming paddle shematic v0 01_bb](https://github.com/user-attachments/assets/390cd52d-bf6a-49aa-a363-2858c70ceaec)
+
