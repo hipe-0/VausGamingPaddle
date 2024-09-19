@@ -29,3 +29,4 @@ The arduino micro powered device is
 - hot glue
 
 ![2024-02-04 Vaus Gaming paddle shematic v0 01_bb](https://github.com/user-attachments/assets/390cd52d-bf6a-49aa-a363-2858c70ceaec)
+
