@@ -9,7 +9,7 @@ The arduino micro powered device is
 - features a mouse acceleration (not fully linear)
 - sentitivity is can be changed (per game) by user using a potentiometer. Useful as screen resolution may differ from one game to the other.
 - when idle for a few seconds, starts a beautiful led fireworks demo called "DemoReel100" by Fastled, found here :https://github.com/FastLED/FastLED/tree/master/examples/DemoReel100
-- body is 3d printed (models are to be found for free on thingiverse)
+- body is 3d printed (models are to be found for free on thingiverse, link for download for free : https://www.thingiverse.com/thing:6772436 )
 - main paddle element is shaped to resemble the Arkanoid 1 spaceship
 - connexion to a PC or retro console via standard USB A plug
 
