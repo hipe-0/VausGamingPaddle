@@ -17,7 +17,7 @@ The arduino micro powered device is
 - 1x Arduino micro
 - 1x WS2812B led strip cut to a length of 57 leds, density: 144 leds / meter
 - 1x Smooth linear potentiometer 128mm 10KOhm
-- 1x 3d printed body
+- 1x 3d printed body with optional back cover
 - 1x Mini rotational linear potentiometer 100KOhm
 - 1x Resistance 1KOhm
 - 1x led
@@ -26,5 +26,6 @@ The arduino micro powered device is
 - 1x prototype soldering board
 - some cables
 - solder
+- hot glue
 
 ![2024-02-04 Vaus Gaming paddle shematic v0 01_bb](https://github.com/user-attachments/assets/390cd52d-bf6a-49aa-a363-2858c70ceaec)
