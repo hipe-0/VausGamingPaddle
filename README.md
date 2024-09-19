@@ -12,6 +12,7 @@ The arduino micro powered device is
 - body is 3d printed (models are to be found for free on thingiverse, link for download for free : https://www.thingiverse.com/thing:6772436 )
 - main paddle element is shaped to resemble the Arkanoid 1 spaceship
 - connexion to a PC or retro console via standard USB A plug
+![20240919_225709](https://github.com/user-attachments/assets/4eaff215-005a-4725-a97a-6353222b39ec)
 
 # Bill of Material:
 - 1x Arduino micro
@@ -29,4 +30,3 @@ The arduino micro powered device is
 - hot glue
 
 ![2024-02-04 Vaus Gaming paddle shematic v0 01_bb](https://github.com/user-attachments/assets/390cd52d-bf6a-49aa-a363-2858c70ceaec)
-
