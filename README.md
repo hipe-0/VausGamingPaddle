@@ -1,23 +1,28 @@
 # VausGamingPaddle
 
+I created a 3D printed, open sourced, arduino based, "Arkanoid"-inspired game paddle for playing Arkanoid 1 or 2 games realistically.
+
+![20240919_225709](https://github.com/user-attachments/assets/4eaff215-005a-4725-a97a-6353222b39ec)
+
 https://github.com/user-attachments/assets/acdfcfb8-230b-40b3-95ee-57034bec4c22
 
-I created a an Arkanoid inspired game paddle for playing Arkanoid 1 or 2 retro games realistically.
 Also works with other "breakout" inspired ball game that accept USB mouse as input.
 
-The arduino micro powered controller is 
-- emulating a mouse with only X direction and featurint only 1 button (= 1 is enough for Arkanoid game)
-- the main sensor bar is a very smooth large linear potentiometer, like the ones found on DJ mixer devices
-- paddle movements are accompanied by led effect when moving and firing (see video attached 20240919_225736.mp4)
+Reference:
+https://fr.wikipedia.org/wiki/Arkanoid
+
+This game controller is 
+- emulating a mouse with only X direction
+- has 1 button (for Arkanoid game it is used as fire button)
+- main sensor bar is a very smooth large linear potentiometer, like the ones found on DJ mixer devices
+- paddle movements are accompanied by led effect when moving and firing
 - handles the left and right corners by moving the mouse faster
-- features a mouse acceleration (not fully linear)
-- sentitivity is can be changed (per game) by user using a potentiometer. Useful as screen resolution may differ from one game to the other.
-- when idle for a few seconds, starts a beautiful led fireworks demo called "DemoReel100" by Fastled, found here :https://github.com/FastLED/FastLED/tree/master/examples/DemoReel100
+- some mouse acceleration based on mouse speed
+- sentitivity can be changed by user using a potentiometer. Useful as screen resolution may differ from one game to the other.
+- when idle for a few seconds, starts a beautiful led fireworks demo called "DemoReel100" by Fastled, found here: https://github.com/FastLED/FastLED/tree/master/examples/DemoReel100
 - body is 3d printed (models are to be found for free on thingiverse, link for download for free : https://www.thingiverse.com/thing:6772436 )
 - main paddle element is shaped to resemble the Arkanoid 1 spaceship
 - connexion to a PC or retro console via standard USB A plug
-![20240919_225709](https://github.com/user-attachments/assets/4eaff215-005a-4725-a97a-6353222b39ec)
-
 
 https://github.com/user-attachments/assets/506902b2-bb77-4744-a214-cb1bdf7f73fd
 
