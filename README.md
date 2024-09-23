@@ -11,7 +11,7 @@ Also works with other "breakout" inspired ball game that accept USB mouse as inp
 Reference:
 https://fr.wikipedia.org/wiki/Arkanoid
 
-Game controller description
+# Game controller description
 - low, near zero latency
 - USB A to usb Micro cable required
 - compatibility with PC emulators or consoles
@@ -33,20 +33,25 @@ https://github.com/user-attachments/assets/506902b2-bb77-4744-a214-cb1bdf7f73fd
 https://www.thingiverse.com/thing:6772436 
 
 # Bill of Material:
-- 1x Arduino micro
+- 1x Arduino micro (rev 3) 
 - 1x WS2812B led strip cut to a length of 57 leds, density: 144 leds / meter
-- 1x Smooth linear potentiometer 128mm 10KOhm
-- 1x 3d printed body with optional back cover
-- 1x Mini rotational linear potentiometer 100KOhm
-- 1x Resistance 1KOhm
+- 1x Smooth linear potentiometer 128mm 10K
+- 1x 3D printed PETG body (dowload the files for free for 3D printing)
+- 1x Mini rotational linear potentiometer 100K
+- 1x Resistance 1K
 - 1x led
 - 1x capacitor 1uF 63v
-- 1x arcade button switch
+- 1x arcade button switch diameter 24mm
 - 1x prototype soldering board
-- some cables
+- 1x USB cable, 2m, USB A male to micro USB male
+- some cables to solder
 - solder
 - hot glue
 
 # Shematic
 ![2024-09-23 Vaus Gaming paddle shematic v1 02_bb](https://github.com/user-attachments/assets/1107ea42-73ac-42d4-ab53-eb1af8b17601)
 ![2024-09-23 Vaus Gaming paddle shematic v1 02_schéma](https://github.com/user-attachments/assets/c4b865e1-c4c2-4b7e-8709-02a82149234d)
+
+# PCB Printed Circuit board
+Not tested yet, but you can try my new PCB design (file in repository) for this project
+![2024-09-23 Vaus Gaming paddle shematic v1 02_circuit imprimé](https://github.com/user-attachments/assets/4b17c5f1-ba64-4fda-b940-1f1fbeddcd6f)
