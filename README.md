@@ -14,6 +14,10 @@ The arduino micro powered device is
 - connexion to a PC or retro console via standard USB A plug
 ![20240919_225709](https://github.com/user-attachments/assets/4eaff215-005a-4725-a97a-6353222b39ec)
 
+
+https://github.com/user-attachments/assets/506902b2-bb77-4744-a214-cb1bdf7f73fd
+
+
 # Bill of Material:
 - 1x Arduino micro
 - 1x WS2812B led strip cut to a length of 57 leds, density: 144 leds / meter
@@ -29,5 +33,6 @@ The arduino micro powered device is
 - solder
 - hot glue
 
-![2024-02-04 Vaus Gaming paddle shematic v0 01_bb](https://github.com/user-attachments/assets/390cd52d-bf6a-49aa-a363-2858c70ceaec)
-
+# Shematic
+![2024-09-23 Vaus Gaming paddle shematic v1 02_bb](https://github.com/user-attachments/assets/1107ea42-73ac-42d4-ab53-eb1af8b17601)
+![2024-09-23 Vaus Gaming paddle shematic v1 02_schéma](https://github.com/user-attachments/assets/c4b865e1-c4c2-4b7e-8709-02a82149234d)
