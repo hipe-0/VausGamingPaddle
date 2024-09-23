@@ -53,5 +53,5 @@ https://www.thingiverse.com/thing:6772436
 ![2024-09-23 Vaus Gaming paddle shematic v1 02_schéma](https://github.com/user-attachments/assets/c4b865e1-c4c2-4b7e-8709-02a82149234d)
 
 # PCB Printed Circuit board
-Not tested yet, but you can try my new PCB design (file in repository) for this project
+Not tested yet, but you can try my new PCB design (file in repository) for this project (cost estimate: 18 Euros for 3 boards)
 ![2024-09-23 Vaus Gaming paddle shematic v1 02_circuit imprimé](https://github.com/user-attachments/assets/4b17c5f1-ba64-4fda-b940-1f1fbeddcd6f)
