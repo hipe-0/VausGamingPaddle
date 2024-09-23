@@ -11,21 +11,26 @@ Also works with other "breakout" inspired ball game that accept USB mouse as inp
 Reference:
 https://fr.wikipedia.org/wiki/Arkanoid
 
-This game controller is 
-- emulating a mouse with only X direction
-- has 1 button (for Arkanoid game it is used as fire button)
-- main sensor bar is a very smooth large linear potentiometer, like the ones found on DJ mixer devices
-- paddle movements are accompanied by led effect when moving and firing
-- handles the left and right corners by moving the mouse faster
-- some mouse acceleration based on mouse speed
-- sentitivity can be changed by user using a potentiometer. Useful as screen resolution may differ from one game to the other.
-- when idle for a few seconds, starts a beautiful led fireworks demo called "DemoReel100" by Fastled, found here: https://github.com/FastLED/FastLED/tree/master/examples/DemoReel100
-- body is 3d printed (models are to be found for free on thingiverse, link for download for free : https://www.thingiverse.com/thing:6772436 )
-- main paddle element is shaped to resemble the Arkanoid 1 spaceship
-- connexion to a PC or retro console via standard USB A plug
+Game controller description
+- low, near zero latency
+- USB A to usb Micro cable required
+- compatibility with PC emulators or consoles
+- The device emulates a mouse with only X direction
+- 1 game button (for the Arkanoid game it is used as fire button)
+- Main sensor bar is a large linear potentiometer, like the ones found on DJ mixer devices
+- Paddle movements are accompanied by led effect when moving and firing
+- Handles the left and right corners by moving the mouse faster
+- Some mouse acceleration is added based on mouse speed, to improve reactivity
+- Sensitivity can be changed by user using a potentiometer. Useful as screen resolution may differ from one game to the other.
+- When idle for a few seconds, starts a beautiful led fireworks demo called "DemoReel100" by Fastled, found here: https://github.com/FastLED/FastLED/tree/master/examples/DemoReel100
+- 3D printed model
+- Main paddle element is shaped to resemble the Arkanoid 1 spaceship
 
 https://github.com/user-attachments/assets/506902b2-bb77-4744-a214-cb1bdf7f73fd
 
+# 3D models for 3D printing
+3D model are available for free download on thingiverse
+https://www.thingiverse.com/thing:6772436 
 
 # Bill of Material:
 - 1x Arduino micro
