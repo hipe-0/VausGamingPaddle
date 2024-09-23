@@ -1,7 +1,11 @@
 # VausGamingPaddle
-Arkanoid inspired game paddle for playing Arkanoid 1 or 2 retro games or any other breakout-inspired ball game of the 90's.
-The paddle only works if it is played at the bottom of the screen.
-The arduino micro powered device is 
+
+https://github.com/user-attachments/assets/acdfcfb8-230b-40b3-95ee-57034bec4c22
+
+I created a an Arkanoid inspired game paddle for playing Arkanoid 1 or 2 retro games realistically.
+Also works with other "breakout" inspired ball game that accept USB mouse as input.
+
+The arduino micro powered controller is 
 - emulating a mouse with only X direction and featurint only 1 button (= 1 is enough for Arkanoid game)
 - the main sensor bar is a very smooth large linear potentiometer, like the ones found on DJ mixer devices
 - paddle movements are accompanied by led effect when moving and firing (see video attached 20240919_225736.mp4)
